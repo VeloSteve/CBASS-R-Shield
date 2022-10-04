@@ -6,6 +6,7 @@ CBASS-R is a shield for use with Arduino Mega and clones.  It has these goals
 2. Require less assembly skill and fewer wires.
 3. Be more reliable by keeping making most electrical connections on the PCB.
 4. Potentially save costs by using fewer separate "breakouts".
+5. Support enhancements such as a better display, Bluetooth connectivity, and control of either 120V or 12V power for different chiller systems.
 
 ## Building Boards
 There are a few ways to get the physical boards.
