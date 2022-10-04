@@ -32,11 +32,11 @@ CBASS-R is basically a fancy connector with a clock chip and some even simpler p
 
 You will need at least two references.  First, there is a manual for CBASS-R itself which will help with assembly.  It includes the steps for assembling the board as received for a factory, some of which will typically be done for you.  It also describes use with an Android app, which is currently not ready for real use.
 
-The [https://tinyurl.com/cbass-r-manual](latest manual) should always be here.
+The [latest manual](https://tinyurl.com/cbass-r-manual) should always be here.
 
-For a broader view and to make your research results consistent with other published work I suggest reading [https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15148](Standardized short-term acute heat stress assays resolve historical differences in coral thermotolerance across microhabitat reef sites) by Christian R. Voolstra, et al.
+For a broader view and to make your research results consistent with other published work I suggest reading [Standardized short-term acute heat stress assays resolve historical differences in coral thermotolerance across microhabitat reef sites](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15148) by Christian R. Voolstra, et al.
 
 There is really no substitute for contact with researchers in the area, but here are a few more links.
-* [https://sites.wp.odu.edu/barshis-lab/cbass/] CBASS history
-* [https://github.com/reefgenomics/CBASSvsCLASSIC](CBASS vs CLASSIC)
+* [CBASS history](https://sites.wp.odu.edu/barshis-lab/cbass/)
+* [CBASS vs CLASSIC](https://github.com/reefgenomics/CBASSvsCLASSIC)
 * A methods paper is in progress.  
