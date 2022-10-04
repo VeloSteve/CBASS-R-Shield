@@ -11,7 +11,7 @@ CBASS-R is a shield for use with Arduino Mega and clones.  It has these goals
 ## Building Boards
 There are a few ways to get the physical boards.
 ###  Build it Yourself
-Not recommended.  By the time you buy and dispose of the necessary chemicals and other materials to etch a PCB and install parts this will probably cost more and be worse for the environment that the other options.
+Not recommended.  By the time you buy and dispose of the necessary chemicals and other materials to etch a PCB and install parts this will probably cost more and be worse for the environment than the other options.
 ### Use a Fabrication Company
 These files work with AutoDesk Eagle 9.6.2 (and probably many other version).  The board is just small enough to be handled by the free version of the software.  Steps include
 
@@ -30,11 +30,11 @@ So far, demand has been small enough that I have been providing assembled cards 
 ## Completing the system.
 CBASS-R is basically a fancy connector with a clock chip and some even simpler parts.  You will still need a compatible display (the most expensive directly-connected part), a box, and many other items.
 
-You will need two references.  First, there is a manual for CBASS-R itself which will help with assembly.  It includes the steps for assembling the board as received for a factory, some of which will typically be done for you.  It also describes use with an Android app, which is currently not ready for real use.
+You will need at least two references.  First, there is a manual for CBASS-R itself which will help with assembly.  It includes the steps for assembling the board as received for a factory, some of which will typically be done for you.  It also describes use with an Android app, which is currently not ready for real use.
 
 The [https://tinyurl.com/cbass-r-manual](latest manual) should always be here.
 
-Second, if you want your research results to be consistent with other published work I suggest reading [https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15148](Standardized short-term acute heat stress assays resolve historical differences in coral thermotolerance across microhabitat reef sites) by Christian R. Voolstra, et al.
+For a broader view and to make your research results consistent with other published work I suggest reading [https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15148](Standardized short-term acute heat stress assays resolve historical differences in coral thermotolerance across microhabitat reef sites) by Christian R. Voolstra, et al.
 
 There is really no substitute for contact with researchers in the area, but here are a few more links.
 * [https://sites.wp.odu.edu/barshis-lab/cbass/] CBASS history
