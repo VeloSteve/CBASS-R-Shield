@@ -39,4 +39,4 @@ For a broader view and to make your research results consistent with other publi
 There is really no substitute for contact with researchers in the area, but here are a few more links.
 * [CBASS history](https://sites.wp.odu.edu/barshis-lab/cbass/)
 * [CBASS vs CLASSIC](https://github.com/reefgenomics/CBASSvsCLASSIC)
-* A methods paper is in progress.  
+* There is a [methods paper](https://doi.org/10.1002/lom3.10555) at Limnology and Oceanography Methods.
